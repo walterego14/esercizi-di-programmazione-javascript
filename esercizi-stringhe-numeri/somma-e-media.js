@@ -8,3 +8,7 @@
   
   http://www.imparareaprogrammare.it
 */
+
+var numbers = 1+2+3+4+5;
+var media = [numbers] / 5;
+console.log(numbers,media);
