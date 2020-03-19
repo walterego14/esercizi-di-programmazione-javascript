@@ -11,3 +11,9 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var year = 2020;
+var age = 1968;
+var tot = 100;
+
+console.log ('età =',(year-age) , 'anni mancanti =',tot - (year-age));
