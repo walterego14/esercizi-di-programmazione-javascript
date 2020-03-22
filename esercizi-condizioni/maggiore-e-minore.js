@@ -10,3 +10,8 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var numbers = [3,-1,4,-2];
+var somma =  [Math.max (...numbers)]  +  [ Math.min (...numbers)];
+
+console.log(somma);
