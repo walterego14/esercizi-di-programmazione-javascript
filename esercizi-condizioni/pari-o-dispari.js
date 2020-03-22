@@ -15,3 +15,13 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var number = 225; 
+
+if (number%=2) {
+    
+} else {
+    
+}
+    
+console.log(number);
