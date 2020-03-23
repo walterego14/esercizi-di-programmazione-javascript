@@ -11,7 +11,18 @@
   http://www.imparareaprogrammare.it
 */
 
+// numero 1
+
 var numbers = [3,-1,4,-2];
 var somma =  [Math.max (...numbers)]  +  [ Math.min (...numbers)];
 
 console.log(somma);
+
+//numero 2
+
+var numbers =[3,-1,4,-2];
+
+var max = Math.max (...numbers);
+var min = Math.min(...numbers);
+
+console.log(max, min);
